@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "3D9B0273-2E4A-4A25-9C00-532CC2980E20",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ios_base_testing.xcodeproj",
+        "identifier" : "AFCAA7C62A1C058100AA431C",
+        "name" : "ios_base_testingTests"
+      }
+    }
+  ],
+  "version" : 1
+}
